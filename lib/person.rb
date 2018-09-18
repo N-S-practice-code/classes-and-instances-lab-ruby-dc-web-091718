@@ -2,5 +2,5 @@ class Person
   
 end
 
-fido=Person.new
+adele_goldberg=Person.new
 fido=Person.new
