@@ -1,7 +1,6 @@
-class Dog
+class Person
   
 end
 
-fido=Dog.new
-fido=Dog.new
-fido=Dog.new
+fido=Person.new
+fido=Person.new
