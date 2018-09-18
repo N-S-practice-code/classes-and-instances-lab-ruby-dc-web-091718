@@ -3,5 +3,5 @@ class Dog
 end
 
 fido=Dog.new
-snoopy=Dog.newkl
+snoopy=Dog.new
 lassie=Dog.new
